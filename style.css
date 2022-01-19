@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "TingTong";
+    src: url("/Fonts/TingTong.ttf");
+}
+
+@font-face {
+    font-family: "OEC";
+    src: url("/Fonts/LOONA_OEC.otf");
+}
+
+body{
+    background-color: #BBBBBB;
+}
